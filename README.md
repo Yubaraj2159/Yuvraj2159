@@ -1,4 +1,11 @@
 ## Hi there 👋
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yuvraj2159&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuvraj2159&layout=compact&theme=dark)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Yuvraj2159&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Yuvraj2159&theme=dark&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Yuvraj2159&theme=react-dark)
+
+
 
 <!--
 **Yuvraj2159/Yuvraj2159** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
